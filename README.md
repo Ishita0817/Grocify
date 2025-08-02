@@ -40,7 +40,7 @@
 
 > _Include screenshots here by uploading image files or using Markdown image links like:_
 
-```md
+
 ![Homepage Screenshot](./screenshots/homepage.png)
 ![Homepage Screenshot](./screenshots/categories_screenshot.png)
 ![Homepage Screenshot](./screenshots/example_fruits_screenshot.png)
