@@ -46,4 +46,7 @@
 ![Homepage Screenshot](./screenshots/example_fruits_screenshot.png)
 ![Homepage Screenshot](./screenshots/cart_screenshot.png)
 
+## 👩‍💻 Author
 
+- **Name:** Ishita
+- **GitHub:** [@Ishita0817](https://github.com/Ishita0817)
